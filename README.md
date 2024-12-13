@@ -49,14 +49,22 @@ Firewall/IDS evasion.
 🔹 Recommendations for Enhancing Security
 
 ✅ Harden the network perimeter: Deploy firewalls, IDS/IPS.
+
 ✅ Apply least privilege principles: Restrict access rights to critical systems.
+
 ✅ Patch management: Regularly update and patch operating systems, software, and applications.
+
 ✅ Use strong authentication mechanisms: Enforce multi-factor authentication (MFA).
+
 ✅ Regular audits and monitoring: Employ SIEM tools for real-time monitoring.
+
 ✅ Employee training: Educate on cybersecurity awareness to mitigate social engineering attacks.
+
 ✨ Key Ethical Hacking Principles Followed:
 
 📖 Legal and authorized testing only.
+
 🤝 Client consent and collaboration.
+
 🛡️ Focus on discovering vulnerabilities, not exploitation.
 

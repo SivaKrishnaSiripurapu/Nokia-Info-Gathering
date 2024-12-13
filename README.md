@@ -3,7 +3,9 @@
  This repository contains a comprehensive information-gathering report on the Nokia website. It includes:
 
 Ping testing
+
 NSLookup
+
 Traceroute
 Footprinting and subdomain enumeration using Sublist3r and Amass
 Port scanning with Nmap
